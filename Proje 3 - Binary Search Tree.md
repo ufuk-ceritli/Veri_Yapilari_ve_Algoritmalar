@@ -97,8 +97,8 @@
     ```
 * 4 ile 7 kıyaslanır. 4<7 olduğu için sol tarafa ilerlenir.
     * 4 ile 5 kıyaslanır. 4<5 olduğu için sol tarafa ilerlenir.
-    * 4 ile 1 kıyaslanır. 4>1 olduğu için sağ tarafa ilerlenir.
-    * 4 ile 3 kıyaslanır. 4>3 olduğu için sağa yazılır.
+        * 4 ile 1 kıyaslanır. 4>1 olduğu için sağ tarafa ilerlenir.
+            * 4 ile 3 kıyaslanır. 4>3 olduğu için sağa yazılır.
     ```
                                        7
                                      /   \
